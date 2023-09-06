@@ -10,7 +10,7 @@ namespace Construct_mart_backend.Controllers
         [HttpGet]
         public IActionResult UsersGet()
         {
-            var users = new string[] { "sumesh", "akalanka", "fuck" };
+            var users = new string[] { "sumesh", "akalanka", "viraji" };
             return Ok(users);
         }
 

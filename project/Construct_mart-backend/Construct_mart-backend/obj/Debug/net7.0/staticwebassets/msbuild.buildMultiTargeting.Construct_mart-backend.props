@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Construct_mart-backend.props" />
+</Project>
